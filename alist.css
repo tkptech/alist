@@ -112,7 +112,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/tkptech/alist@main/img/img_hennyano_body.png) left bottom/contain no-repeat
+    background: url(https://cdn.jsdelivr.net/gh/tkptech/alist@main/img/tkp.png) left bottom/contain no-repeat
 }
 .sw-Hennnyano .eyes {
     width: 100%;
@@ -120,7 +120,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/tkptech/alist@main/img/img_hennyano_eyes.png) left bottom/contain no-repeat
+    background: url(https://cdn.jsdelivr.net/gh/tkptech/alist@main/img/tkp.png) left bottom/contain no-repeat
 }
 
 @media(any-hover: hover) {
