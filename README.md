@@ -28,7 +28,7 @@
         <script src="https://cdn.jsdelivr.net/gh/tkptech/alist@main/js/parallax.min.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/tkptech/alist@main/js/app.bundle.js"></script>
         <div id="jsi-flying-fish-container" class="fish-container"></div>
-        <script src='https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js'></script>
+        <script src='https://cdn.jsdelivr.net/gh/tkptech/alist@main/fish.js'></script>
         ```
 
 ## Kết quả
