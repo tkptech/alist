@@ -1,21 +1,19 @@
-# Better_Alist  
+# Alist  
 
-* 半透明化目录背景  
+* Nền thư mục trong suốt
 
-* 随机甘城背景图  
+* Ảnh nền ngẫu nhiên
 
-* 添加回到顶部猫猫  
-
-## 使用方法  
-   * 以下内容针对静态背景，视频背景详见[此处](https://github.com/TheSmallHanCat/Better_Alist/issues/7)
-   * 在Alist后台页面依次选择```设置```-->```全局```
-   * 将以下内容添加到对应框框内
-     * 自定义头部  
+## Cách sử dụng  
+   * Nội dung sau dành cho hình nền tĩnh, Xem chi tiết [tại đây](https://github.com/TheSmallHanCat/Better_Alist/issues/7)
+   * Trong Alist, chọn trang theo thứ tự```Settings```-->```Global```
+   * Thêm nội dung sau vào ô tương ứng
+     * Customize head  
         ```html
         <link href="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/alist.css" rel="stylesheet" type="text/css">  
         ```  
 
-     * 自定义内容  
+     * Customize body  
 
         ```html
         <script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/jq.js"></script>
@@ -33,12 +31,12 @@
         <script src='https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js'></script>
         ```
 
-## 效果图  
-* 亮色主题
+## Kết quả
+* Chủ đề sáng
 ![light-20240425181503](https://github.com/TheSmallHanCat/Better_Alist/assets/109069769/6c5a7317-df58-4bc8-b469-92c8e664754b)
 
-* 暗色主题
+* Chủ đề tối
 ![dark-20240425181503](https://github.com/TheSmallHanCat/Better_Alist/assets/109069769/24f1a8ad-76b5-4f19-8a26-c541e97b36b9)
 
-* 点击猫猫即可返回顶部
+* Bấm vào con mèo để trở về đầu trang
 ![20240425181635](https://github.com/TheSmallHanCat/Better_Alist/assets/109069769/7b006d58-612c-47e4-83d9-7f6c8b6ebf41)
